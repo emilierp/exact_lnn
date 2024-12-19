@@ -1,7 +1,7 @@
 # Exact LNN
 Exact Implementation of Closed-Form Liquid Neural Networks With Arbitrary Precision
 
-Appendix: https://github.com/emilierp/exact_lnn/Appendix.pdf
+Appendix: [https://github.com/emilierp/exact_lnn/Appendix.pdf](https://github.com/emilierp/exact_lnn/blob/main/Appendix.pdf)
 
 # Single neuron
 
