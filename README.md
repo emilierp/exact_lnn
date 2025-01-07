@@ -12,7 +12,7 @@ python3 neuron_experiment/script_ode_solver.py ecg
 
 To visualize the results: 
 ```bash
-python3 neuron_experiment/script_experiment.py 0
+python3 neuron_experiment/script_experiment.py ecg
 ```
 
 # Neural networks
